@@ -1,0 +1,1 @@
+sh execute.sh -r -i ../wm-2020-vsm-model/queries/query-test.xml -o ranked-list.csv -m ../wm-2020-vsm-model/model -d ../wm-2020-vsm-model/CIRB010
